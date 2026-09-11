@@ -1,0 +1,9 @@
+module:helloworld.helloworld
+helloworld.helloworld
+helloworld.helloworld.controller
+helloworld.helloworld.dao
+helloworld.helloworld.database
+helloworld.helloworld.experiment
+helloworld.helloworld.model
+helloworld.helloworld.service
+helloworld.helloworld.view

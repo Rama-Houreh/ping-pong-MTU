@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"helloworld.helloworld"}];updateSearchResults();
